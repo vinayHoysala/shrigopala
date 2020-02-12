@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shrigopala/static/css/main.40d59560.chunk.css",
+    "main.js": "/shrigopala/static/js/main.b443f96c.chunk.js",
+    "main.js.map": "/shrigopala/static/js/main.b443f96c.chunk.js.map",
+    "runtime-main.js": "/shrigopala/static/js/runtime-main.2e29aa6c.js",
+    "runtime-main.js.map": "/shrigopala/static/js/runtime-main.2e29aa6c.js.map",
+    "static/js/2.964a0902.chunk.js": "/shrigopala/static/js/2.964a0902.chunk.js",
+    "static/js/2.964a0902.chunk.js.map": "/shrigopala/static/js/2.964a0902.chunk.js.map",
+    "index.html": "/shrigopala/index.html",
+    "precache-manifest.8276aa8fbbd073eae2be172e4bbfddce.js": "/shrigopala/precache-manifest.8276aa8fbbd073eae2be172e4bbfddce.js",
+    "service-worker.js": "/shrigopala/service-worker.js",
+    "static/css/main.40d59560.chunk.css.map": "/shrigopala/static/css/main.40d59560.chunk.css.map",
+    "static/js/2.964a0902.chunk.js.LICENSE": "/shrigopala/static/js/2.964a0902.chunk.js.LICENSE",
+    "static/media/logo.svg": "/shrigopala/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e29aa6c.js",
+    "static/js/2.964a0902.chunk.js",
+    "static/css/main.40d59560.chunk.css",
+    "static/js/main.b443f96c.chunk.js"
+  ]
+}
